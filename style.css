@@ -1,0 +1,10 @@
+#card{
+    background-color: #F0FFF0;
+    border: none;
+}
+
+#card:hover{
+    background-color: white;
+    border: none;
+    box-shadow: 01px 10px 15px gainsboro;
+}
